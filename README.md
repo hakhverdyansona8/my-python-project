@@ -10,7 +10,7 @@ A console-based ATM machine program that simulates real banking actions.
 *   **Menu Options:** Users can check their current balance or safely withdraw money.
 *   **Crash Prevention:** Uses smart error handling (`try/except`) to prevent the program from crashing if a user types letters instead of numbers.
 
-### 2. First Code (`my-python-project.py`)
+### 2. First Code (`my-first-python-code.py`)
 *   My very first Python script where I started exploring the basics of the language.
 
 ## 🛠️ Technologies Used
